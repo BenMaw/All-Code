@@ -1,0 +1,4 @@
+print ("hello")
+
+#i did this to make it easier.
+print ("you look good \n"*3)
